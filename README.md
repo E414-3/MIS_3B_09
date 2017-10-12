@@ -21,3 +21,5 @@
 #### 1.系統應該能夠即時更新用戶資料
 #### 2.用戶的個資只有在合理的範圍內才可被使用
 #### 3.系統應該能夠整合資料庫及其應用
+---
+### 甘特圖：https://drive.google.com/open?id=0B9kZ_epwxkwVcXFMbUlNWWxWT1k
