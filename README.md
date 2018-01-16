@@ -25,6 +25,7 @@
 ### 甘特圖：https://drive.google.com/open?id=0B9kZ_epwxkwVcXFMbUlNWWxWT1k
 ---
 ## 期中PPT：
+### https://github.com/E414-3/MIS_3B_09/blob/master/Vendors-期中/系統分析與設計B班09組-攤商即時資訊平台-Vendors.pdf
 ### https://github.com/E414-3/MIS_3B_09/Vendors-期中/系統分析與設計B班09組-攤商即時資訊平台-Vendors.pdf
 ---
 ## 期末PPT檔案：
