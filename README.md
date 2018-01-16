@@ -23,3 +23,9 @@
 #### 3.系統應該能夠整合資料庫及其應用
 ---
 ### 甘特圖：https://drive.google.com/open?id=0B9kZ_epwxkwVcXFMbUlNWWxWT1k
+---
+## 期中PPT：
+### https://github.com/E414-3/MIS_3B_09/Vendors-期中/系統分析與設計B班09組-攤商即時資訊平台-Vendors.pdf
+---
+## 期末PPT檔案：
+### https://github.com/E414-3/MIS_3B_09/Vendors-期末/系統分析與設計B班09組-攤商即時資訊平台-Vendors.pdf
